@@ -22,6 +22,6 @@ datetime
 quandl
 investpy
 tqdm
-
+bs4
 joblib
 pandas_ta
