@@ -22,7 +22,6 @@ datetime
 quandl
 investpy
 tqdm
-bs4
 pickle
+joblib
 pandas_ta
-sklearn
